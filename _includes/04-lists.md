@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+- pizza
+- chicken
+- sushi
+  - yakimeshi
+  - rolls
+1. Plaza
+2. Fundidora
+3. Locals
+  1. HobbyQuest
+  2. Garibaldi
