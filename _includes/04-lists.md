@@ -6,5 +6,5 @@
 1. Plaza
 2. Fundidora
 3. Locals
-  1. HobbyQuest
-  2. Garibaldi
+  1. ABC
+  2. DEFG
